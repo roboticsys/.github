@@ -1,13 +1,6 @@
 
 <div align="center">
 
-<a href="https://www.roboticsys.com/">
-    <img alt="refine logo" src="../assets/rsi-readme-banner.png">
-</a>
-
-<br/>
-<br/>
-
 <a href="https://www.roboticsys.com/">Home</a> ·
 <a href="https://www.roboticsys.com/rmp-ethercat-motion-controller">RMP</a> ·
 <a href="https://support.roboticsys.com/rmp/">Docs</a> ·
