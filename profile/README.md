@@ -14,7 +14,7 @@ We empower customers to build high-performance, cost-effective machines by provi
 <br/>
 <br/>
 
-## ⚡ RMP Motion Controller ⚡
+## ⚡ RMP EtherCAT Master and Motion Controller ⚡
 
 [RMP](https://www.roboticsys.com/rmp-ethercat-motion-controller) is a powerful, open, and affordable PC-based EtherCAT Soft Motion Controller built for OEM machine builders. With APIs for C++, C#, Python, gRPC, and more, you can create real-time motion applications on Windows or Linux.
 
